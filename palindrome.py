@@ -1,7 +1,6 @@
 """
 Assignment Qstn 1
 Finds if a number is palindrome or not.
-
 """
 
 num = int(input('Enter a number: '))
@@ -20,7 +19,8 @@ while(num > 0):
   num = num // 10
 
 if(num_copy == reversed_num):
-  print(str(num_copy) + " is a palindrome number")
+  #print(str(num_copy) + " is a palindrome number")
+  print(num_copy, " is a palindrome number")
 else:
-  print(str(num_copy) + " is not a palindrome number")
+  print(num_copy, " is not a palindrome number")
 
