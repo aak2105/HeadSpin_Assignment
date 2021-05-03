@@ -1,5 +1,5 @@
 """
-Assignment Qstn 2
+Assignment Qstn 3
 
 Program to find the sum of the following series
 	Series: 1/1! + 2/2! +3/3! + …. + N/N!
